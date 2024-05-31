@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=MCU - STM32F407VGT6 Member=R3
+Removed Member From Class: ClassName=Ethernet - LAN8720A Member=R7
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C5
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC3_1
+Added Member To Class: ClassName=Power - Regulators Member=Component C2 0.1µF
+Added Member To Class: ClassName=Power - Regulators Member=Component C3 0.1µF
+Added Member To Class: ClassName=Power - Regulators Member=Component C5 1µF
+Added Member To Class: ClassName=Power - Regulators Member=Component R1 49.9 kOhms
+Added Member To Class: ClassName=Power - Regulators Member=Component R2 9.53 kOhms
+Added Member To Class: ClassName=Power - Regulators Member=Component R3 330 Ohms
+Added Member To Class: ClassName=Power - Regulators Member=Component R4 330 Ohms
+Added Member To Class: ClassName=MCU - STM32F407VGT6 Member=Component R5 0 Ohms
+Added Member To Class: ClassName=MCU - STM32F407VGT6 Member=Component R8 0 Ohms
+Added Member To Class: ClassName=MCU - STM32F407VGT6 Member=Component R9 0 Ohms
+Added Member To Class: ClassName=Ethernet - LAN8720A Member=Component R11 49.9 Ohms
+Added Member To Class: ClassName=MCU - CAN RS485 Member=Component R32 60 Ohms
