@@ -1,0 +1,10 @@
+Record=TopLevelDocument|FileName=Connector - Carrier.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Connector - Carrier.SchDoc|FileName=Ethernet - LAN8720A.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connector - Carrier.SchDoc|FileName=MCU - AUDIO.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Connector - Carrier.SchDoc|FileName=MCU - CAN RS485.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connector - Carrier.SchDoc|FileName=MCU - FLASH.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Connector - Carrier.SchDoc|FileName=MCU - SDMMC.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Connector - Carrier.SchDoc|FileName=MCU - Sensors.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Connector - Carrier.SchDoc|FileName=MCU - STM32F407VGT6.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connector - Carrier.SchDoc|FileName=MCU - IMU.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connector - Carrier.SchDoc|FileName=Power - Regulators.SchDoc|SheetNumber=1
