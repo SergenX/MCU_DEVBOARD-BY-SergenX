@@ -169,40 +169,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MRQLRRWO
 
 [Document8]
-DocumentPath=MCU - SDMMC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BRXXMHPW
-
-[Document9]
-DocumentPath=MCU - Sensors.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=THMQGKHC
-
-[Document10]
 DocumentPath=Connector - Carrier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOEOOXMX
 
-[Document11]
+[Document9]
 DocumentPath=Library\MainLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BJGPPRXZ
 
-[Document12]
+[Document10]
 DocumentPath=Library\MainLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNRRGFWG
 
-[Document13]
+[Document11]
 DocumentPath=MCUBOARD_V1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
