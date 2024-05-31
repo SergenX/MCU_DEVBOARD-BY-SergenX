@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=MCU - STM32F407VGT6 Member=R3
+Removed Member From Class: ClassName=Ethernet - LAN8720A Member=R6
+Removed Member From Class: ClassName=Ethernet - LAN8720A Member=R7
+Removed Member From Class: ClassName=MCU - CAN RS485 Member=R26
+Removed Member From Class: ClassName=MCU - CAN RS485 Member=R27
+Removed Member From Class: ClassName=MCU - IMU Member=R30
+Removed Member From Class: ClassName=MCU - IMU Member=R33
+Removed Member From Class: ClassName=MCU - AUDIO Member=R34
+Removed Member From Class: ClassName=MCU - AUDIO Member=R35
+Removed Member From Class: ClassName=MCU - FLASH Member=R38
+Removed Member From Class: ClassName=MCU - FLASH Member=R39
+Change Component Designator: OldDesignator=LED1 NewDesignator=D2
+Change Component Designator: OldDesignator=LED2 NewDesignator=D3
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetD3_1
+Added Member To Class: ClassName=Power - Regulators Member=Component C2 0.1µF
+Added Member To Class: ClassName=Power - Regulators Member=Component C3 0.1µF
+Added Member To Class: ClassName=Power - Regulators Member=Component C5 1µF
+Added Member To Class: ClassName=Power - Regulators Member=Component R1 49.9 kOhms
+Added Member To Class: ClassName=Power - Regulators Member=Component R2 9.53 kOhms
+Added Member To Class: ClassName=Power - Regulators Member=Component R3 330 Ohms
+Added Member To Class: ClassName=Power - Regulators Member=Component R4 330 Ohms
+Added Member To Class: ClassName=MCU - STM32F407VGT6 Member=Component R5 0 Ohms
+Added Member To Class: ClassName=MCU - STM32F407VGT6 Member=Component R8 0 Ohms
+Added Member To Class: ClassName=MCU - STM32F407VGT6 Member=Component R9 0 Ohms
+Added Member To Class: ClassName=Ethernet - LAN8720A Member=Component R11 49.9 Ohms
+Added Member To Class: ClassName=Ethernet - LAN8720A Member=Component R26 0 Ohms
+Added Member To Class: ClassName=Ethernet - LAN8720A Member=Component R27 12.1 kOhms
+Added Member To Class: ClassName=MCU - CAN RS485 Member=Component R32 60 Ohms
+Added Member To Class: ClassName=MCU - CAN RS485 Member=Component R33 60 Ohms
+Added Member To Class: ClassName=MCU - IMU Member=Component R34 10 kOhms
+Added Member To Class: ClassName=MCU - IMU Member=Component R35 10 kOhms
+Added Member To Class: ClassName=MCU - AUDIO Member=Component R38 1.5 kOhms
+Added Member To Class: ClassName=MCU - AUDIO Member=Component R39 1.5 kOhms
+Added Member To Class: ClassName=MCU - FLASH Member=Component R50 49.9 kOhms
+Added Member To Class: ClassName=MCU - FLASH Member=Component R51 4.7 kOhms
