@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetJ7_17 Pin=U4-1
+Removed Pin From Net: NetName=NetJ7_19 Pin=U4-2
+Removed Pin From Net: NetName=NetJ7_21 Pin=U4-3
+Removed Pin From Net: NetName=NetJ7_23 Pin=U4-4
+Removed Pin From Net: NetName=NetJ7_25 Pin=U4-5
+Removed Pin From Net: NetName=MCU-nRST Pin=U4-14
+Removed Pin From Net: NetName=NetJ7_27 Pin=U4-38
+Removed Pin From Net: NetName=NetJ7_29 Pin=U4-39
+Removed Pin From Net: NetName=NetJ7_31 Pin=U4-40
+Removed Pin From Net: NetName=NetJ7_33 Pin=U4-41
+Removed Pin From Net: NetName=NetJ7_35 Pin=U4-42
+Removed Pin From Net: NetName=NetJ7_37 Pin=U4-43
+Removed Pin From Net: NetName=NetJ7_15 Pin=U4-98
+Added Pin To Net: NetName=GND Pin=J7-13
+Added Pin To Net: NetName=NetJ7_23 Pin=U4-1
+Added Pin To Net: NetName=NetJ7_25 Pin=U4-2
+Added Pin To Net: NetName=NetJ7_27 Pin=U4-3
+Added Pin To Net: NetName=NetJ7_29 Pin=U4-4
+Added Pin To Net: NetName=NetJ7_31 Pin=U4-5
+Added Pin To Net: NetName=NetJ7_17 Pin=U4-14
+Added Pin To Net: NetName=NetJ7_33 Pin=U4-38
+Added Pin To Net: NetName=NetJ7_35 Pin=U4-39
+Added Pin To Net: NetName=NetJ7_37 Pin=U4-40
+Added Pin To Net: NetName=NetJ7_15 Pin=U4-72
+Added Pin To Net: NetName=NetJ7_19 Pin=U4-97
+Added Pin To Net: NetName=NetJ7_21 Pin=U4-98
+Added Pin To Net: NetName=NetJ7_11 Pin=J7-11
+Added Pin To Net: NetName=NetJ7_11 Pin=U4-76
+Added Net: Name=NetJ7_11
+Added Pin To Net: NetName=NetJ7_39 Pin=J7-39
+Added Pin To Net: NetName=NetJ7_39 Pin=U4-41
+Added Net: Name=NetJ7_39
+Added Pin To Net: NetName=NetJ7_41 Pin=J7-41
+Added Pin To Net: NetName=NetJ7_41 Pin=U4-42
+Added Net: Name=NetJ7_41
+Added Pin To Net: NetName=NetJ7_43 Pin=J7-43
+Added Pin To Net: NetName=NetJ7_43 Pin=U4-43
+Added Net: Name=NetJ7_43
