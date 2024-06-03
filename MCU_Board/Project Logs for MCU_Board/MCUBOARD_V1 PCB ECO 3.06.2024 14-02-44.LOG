@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=C50-1
+Removed Pin From Net: NetName=+5V Pin=C50-2
+Removed Pin From Net: NetName=GND Pin=C51-1
+Removed Pin From Net: NetName=+5V Pin=C51-2
+Removed Pin From Net: NetName=GND Pin=C52-1
+Removed Pin From Net: NetName=+5V Pin=C52-2
+Removed Pin From Net: NetName=GND Pin=C53-1
+Removed Pin From Net: NetName=+5V Pin=C53-2
+Removed Pin From Net: NetName=GND Pin=C54-1
+Removed Pin From Net: NetName=+5V Pin=C54-2
+Removed Pin From Net: NetName=SPK_P Pin=C55-1
+Removed Pin From Net: NetName=SPK_P Pin=C56-1
+Removed Pin From Net: NetName=GND Pin=C57-2
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J6-2
+Removed Pin From Net: NetName=GND Pin=U10-2
+Removed Pin From Net: NetName=+5V Pin=U10-4
+Removed Pin From Net: NetName=+5V Pin=U10-6
+Removed Pin From Net: NetName=GND Pin=U10-11
+Removed Pin From Net: NetName=+5V Pin=U10-13
+Removed Pin From Net: NetName=GND Pin=U10-15
+Removed Member From Class: ClassName=MCU - AUDIO Member=C50
+Removed Member From Class: ClassName=MCU - AUDIO Member=C51
+Removed Member From Class: ClassName=MCU - AUDIO Member=C52
+Removed Member From Class: ClassName=MCU - AUDIO Member=C53
+Removed Member From Class: ClassName=MCU - AUDIO Member=C54
+Removed Member From Class: ClassName=MCU - AUDIO Member=C55
+Removed Member From Class: ClassName=MCU - AUDIO Member=C56
+Removed Member From Class: ClassName=MCU - AUDIO Member=C57
+Removed Member From Class: ClassName=MCU - AUDIO Member=J6
+Removed Member From Class: ClassName=MCU - AUDIO Member=U10
+Added Pin To Net: NetName=SPK_P Pin=J5-1
+Added Pin To Net: NetName=SPK_N Pin=J5-2
