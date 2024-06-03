@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=NetR22_1 Pin=R22-1
+Removed Pin From Net: NetName=NetR20_2 Pin=R22-2
+Removed Member From Class: ClassName=Ethernet - LAN8720A Member=R27
+Change Component Designator: OldDesignator=C20 NewDesignator=C21
+Change Component Designator: OldDesignator=C21 NewDesignator=C20
+Change Component Designator: OldDesignator=C58 NewDesignator=C50
+Change Component Designator: OldDesignator=C59 NewDesignator=C51
+Change Component Designator: OldDesignator=C60 NewDesignator=C52
+Change Component Designator: OldDesignator=C61 NewDesignator=C53
+Change Component Designator: OldDesignator=C62 NewDesignator=C54
+Change Component Designator: OldDesignator=C63 NewDesignator=C55
+Change Component Designator: OldDesignator=C64 NewDesignator=C56
+Change Component Designator: OldDesignator=C65 NewDesignator=C57
+Change Component Designator: OldDesignator=C66 NewDesignator=C58
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=J7 NewDesignator=J5
+Change Component Designator: OldDesignator=J8 NewDesignator=J6
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=R36 NewDesignator=R35
+Change Component Designator: OldDesignator=R37 NewDesignator=R36
+Change Component Designator: OldDesignator=R38 NewDesignator=R37
+Change Component Designator: OldDesignator=R39 NewDesignator=R38
+Change Component Designator: OldDesignator=R40 NewDesignator=R39
+Change Component Designator: OldDesignator=R41 NewDesignator=R40
+Change Component Designator: OldDesignator=R42 NewDesignator=R41
+Change Component Designator: OldDesignator=R43 NewDesignator=R42
+Change Component Designator: OldDesignator=R44 NewDesignator=R43
+Change Component Designator: OldDesignator=R45 NewDesignator=R44
+Change Component Designator: OldDesignator=R46 NewDesignator=R45
+Change Component Designator: OldDesignator=R47 NewDesignator=R46
+Change Component Designator: OldDesignator=R48 NewDesignator=R47
+Change Component Designator: OldDesignator=R49 NewDesignator=R48
+Change Component Designator: OldDesignator=R50 NewDesignator=R49
+Change Component Designator: OldDesignator=R51 NewDesignator=R50
+Change Component Designator: OldDesignator=U11 NewDesignator=U10
+Change Net Name : Old Net Name=NetC58_2 New Net Name=NetC50_2
+Change Net Name : Old Net Name=NetC59_1 New Net Name=NetC51_1
+Change Net Name : Old Net Name=NetC60_1 New Net Name=NetC52_1
+Change Net Name : Old Net Name=NetC61_2 New Net Name=NetC53_2
+Change Net Name : Old Net Name=NetJ2_9 New Net Name=NetJ1_9
+Change Net Name : Old Net Name=NetJ2_12 New Net Name=NetJ1_12
+Change Net Name : Old Net Name=NetJ7_11 New Net Name=NetJ5_11
+Change Net Name : Old Net Name=NetJ7_15 New Net Name=NetJ5_15
+Change Net Name : Old Net Name=NetJ7_19 New Net Name=NetJ5_19
+Change Net Name : Old Net Name=NetJ7_21 New Net Name=NetJ5_21
+Change Net Name : Old Net Name=NetJ7_23 New Net Name=NetJ5_23
+Change Net Name : Old Net Name=NetJ7_25 New Net Name=NetJ5_25
+Change Net Name : Old Net Name=NetJ7_27 New Net Name=NetJ5_27
+Change Net Name : Old Net Name=NetJ7_29 New Net Name=NetJ5_29
+Change Net Name : Old Net Name=NetJ7_31 New Net Name=NetJ5_31
+Change Net Name : Old Net Name=NetJ7_33 New Net Name=NetJ5_33
+Change Net Name : Old Net Name=NetJ7_35 New Net Name=NetJ5_35
+Change Net Name : Old Net Name=NetJ7_37 New Net Name=NetJ5_37
+Change Net Name : Old Net Name=NetJ7_39 New Net Name=NetJ5_39
+Change Net Name : Old Net Name=NetJ7_41 New Net Name=NetJ5_41
+Change Net Name : Old Net Name=NetJ7_43 New Net Name=NetJ5_43
+Change Net Name : Old Net Name=NetJ8_13 New Net Name=NetJ6_13
+Change Net Name : Old Net Name=NetJ8_14 New Net Name=NetJ6_14
+Change Net Name : Old Net Name=NetJ8_15 New Net Name=NetJ6_15
+Change Net Name : Old Net Name=NetJ8_16 New Net Name=NetJ6_16
+Change Net Name : Old Net Name=NetJ8_17 New Net Name=NetJ6_17
+Change Net Name : Old Net Name=NetJ8_18 New Net Name=NetJ6_18
+Change Net Name : Old Net Name=NetJ8_19 New Net Name=NetJ6_19
+Change Net Name : Old Net Name=NetJ8_20 New Net Name=NetJ6_20
+Change Net Name : Old Net Name=NetJ8_21 New Net Name=NetJ6_21
+Change Net Name : Old Net Name=NetJ8_22 New Net Name=NetJ6_22
+Change Net Name : Old Net Name=NetJ8_23 New Net Name=NetJ6_23
+Change Net Name : Old Net Name=NetJ8_24 New Net Name=NetJ6_24
+Change Net Name : Old Net Name=NetJ8_25 New Net Name=NetJ6_25
+Change Net Name : Old Net Name=NetJ8_26 New Net Name=NetJ6_26
+Change Net Name : Old Net Name=NetJ8_27 New Net Name=NetJ6_27
+Change Net Name : Old Net Name=NetJ8_28 New Net Name=NetJ6_28
+Change Net Name : Old Net Name=NetJ8_29 New Net Name=NetJ6_29
+Change Net Name : Old Net Name=NetJ8_30 New Net Name=NetJ6_30
+Change Net Name : Old Net Name=NetJ8_31 New Net Name=NetJ6_31
+Change Net Name : Old Net Name=NetJ8_32 New Net Name=NetJ6_32
+Change Net Name : Old Net Name=NetJ8_33 New Net Name=NetJ6_33
+Change Net Name : Old Net Name=NetJ8_34 New Net Name=NetJ6_34
+Change Net Name : Old Net Name=NetJ8_35 New Net Name=NetJ6_35
+Change Net Name : Old Net Name=NetJ8_36 New Net Name=NetJ6_36
+Change Net Name : Old Net Name=NetJ8_37 New Net Name=NetJ6_37
+Change Net Name : Old Net Name=NetJ8_38 New Net Name=NetJ6_38
+Change Net Name : Old Net Name=NetJ8_39 New Net Name=NetJ6_39
+Change Net Name : Old Net Name=NetJ8_40 New Net Name=NetJ6_40
+Change Net Name : Old Net Name=NetJ8_41 New Net Name=NetJ6_41
+Change Net Name : Old Net Name=NetJ8_42 New Net Name=NetJ6_42
+Change Net Name : Old Net Name=NetJ8_43 New Net Name=NetJ6_43
+Change Net Name : Old Net Name=NetJ8_44 New Net Name=NetJ6_44
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR24_2 New Net Name=NetR23_2
+Change Net Name : Old Net Name=NetR27_2 New Net Name=NetR26_2
+Change Net Name : Old Net Name=NetR28_1 New Net Name=NetR27_1
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR30_1
+Change Net Name : Old Net Name=NetR34_2 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetR35_1 New Net Name=NetR34_1
+Change Net Name : Old Net Name=NetR36_1 New Net Name=NetR35_1
+Change Net Name : Old Net Name=NetR38_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR39_2 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetR40_1 New Net Name=NetR39_1
+Change Net Name : Old Net Name=NetR41_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR42_1 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetR43_1 New Net Name=NetR42_1
+Change Net Name : Old Net Name=NetR44_1 New Net Name=NetR43_1
+Change Net Name : Old Net Name=NetR45_1 New Net Name=NetR44_1
+Change Net Name : Old Net Name=NetR46_2 New Net Name=NetR45_2
+Change Net Name : Old Net Name=NetR47_1 New Net Name=NetR46_1
+Change Net Name : Old Net Name=NetR48_1 New Net Name=NetR47_1
+Change Net Name : Old Net Name=NetR49_2 New Net Name=NetR48_2
+Change Net Name : Old Net Name=NetR50_2 New Net Name=NetR49_2
