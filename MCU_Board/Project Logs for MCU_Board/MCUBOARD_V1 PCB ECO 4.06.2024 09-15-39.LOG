@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=NetJ5_19 Pin=J6-16
+Removed Pin From Net: NetName=NetJ5_21 Pin=J6-18
+Removed Pin From Net: NetName=NetJ5_23 Pin=J6-20
+Removed Pin From Net: NetName=NetJ6_14 Pin=U4-23
+Removed Pin From Net: NetName=NetJ6_13 Pin=U4-66
+Added Pin To Net: NetName=NetJ6_14 Pin=U4-82
+Added Pin To Net: NetName=NetJ6_13 Pin=U4-83
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Net: Name=NetU4_2
+Added Pin To Net: NetName=NetU4_3 Pin=U4-3
+Added Net: Name=NetU4_3
+Added Pin To Net: NetName=NetU4_4 Pin=U4-4
+Added Net: Name=NetU4_4
+Added Pin To Net: NetName=NetU4_5 Pin=U4-5
+Added Net: Name=NetU4_5
+Added Pin To Net: NetName=NetU4_7 Pin=U4-7
+Added Net: Name=NetU4_7
+Added Pin To Net: NetName=NetU4_8 Pin=U4-8
+Added Net: Name=NetU4_8
+Added Pin To Net: NetName=NetU4_9 Pin=U4-9
+Added Net: Name=NetU4_9
+Added Pin To Net: NetName=NetU4_15 Pin=U4-15
+Added Net: Name=NetU4_15
+Added Pin To Net: NetName=NetU4_23 Pin=U4-23
+Added Net: Name=NetU4_23
+Added Pin To Net: NetName=NetU4_53 Pin=U4-53
+Added Net: Name=NetU4_53
+Added Pin To Net: NetName=NetU4_54 Pin=U4-54
+Added Net: Name=NetU4_54
+Added Pin To Net: NetName=NetU4_57 Pin=U4-57
+Added Net: Name=NetU4_57
+Added Pin To Net: NetName=NetU4_58 Pin=U4-58
+Added Net: Name=NetU4_58
+Added Pin To Net: NetName=NetU4_59 Pin=U4-59
+Added Net: Name=NetU4_59
+Added Pin To Net: NetName=NetU4_60 Pin=U4-60
+Added Net: Name=NetU4_60
+Added Pin To Net: NetName=NetU4_61 Pin=U4-61
+Added Net: Name=NetU4_61
+Added Pin To Net: NetName=NetU4_62 Pin=U4-62
+Added Net: Name=NetU4_62
+Added Pin To Net: NetName=NetU4_65 Pin=U4-65
+Added Net: Name=NetU4_65
+Added Pin To Net: NetName=NetU4_66 Pin=U4-66
+Added Net: Name=NetU4_66
+Added Pin To Net: NetName=NetU4_84 Pin=U4-84
+Added Net: Name=NetU4_84
+Added Pin To Net: NetName=NetU4_85 Pin=U4-85
+Added Net: Name=NetU4_85
+Added Pin To Net: NetName=NetU4_86 Pin=U4-86
+Added Net: Name=NetU4_86
+Added Pin To Net: NetName=NetU4_87 Pin=U4-87
+Added Net: Name=NetU4_87
+Added Pin To Net: NetName=NetU4_89 Pin=U4-89
+Added Net: Name=NetU4_89
+Added Pin To Net: NetName=NetU4_90 Pin=U4-90
+Added Net: Name=NetU4_90
+Added Pin To Net: NetName=NetU4_91 Pin=U4-91
+Added Net: Name=NetU4_91
+Added Pin To Net: NetName=NetU4_92 Pin=U4-92
+Added Net: Name=NetU4_92

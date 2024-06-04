@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetJ5_25 Pin=U4-2
+Removed Pin From Net: NetName=NetJ6_22 Pin=U4-31
+Removed Member From Class: ClassName=MCU - CAN RS485 Member=J1
+Removed Member From Class: ClassName=MCU - AUDIO Member=J3
+Removed Member From Class: ClassName=MCU - CAN RS485 Member=R26
+Removed Member From Class: ClassName=MCU - IMU Member=R32
+Removed Member From Class: ClassName=MCU - AUDIO Member=R34
+Removed Member From Class: ClassName=MCU - FLASH Member=R38
+Added Pin To Net: NetName=NetJ6_22 Pin=U4-2
+Added Pin To Net: NetName=NetJ5_25 Pin=U4-31
+Added Member To Class: ClassName=MCU - STM32F407VGT6 Member=Component C21 2.2µF
+Added Member To Class: ClassName=MCU - CAN RS485 Member=Component J2 B2B-PH-K-S
+Added Member To Class: ClassName=MCU - AUDIO Member=Component J4 B2B-PH-K-S
+Added Member To Class: ClassName=Ethernet - LAN8720A Member=Component R22 330 Ohms
+Added Member To Class: ClassName=Ethernet - LAN8720A Member=Component R23 1 MOhms
+Added Member To Class: ClassName=Ethernet - LAN8720A Member=Component R25 0 Ohms
+Added Member To Class: ClassName=Ethernet - LAN8720A Member=Component R26 12.1 kOhms
+Added Member To Class: ClassName=MCU - CAN RS485 Member=Component R27 10 Ohms
+Added Member To Class: ClassName=MCU - CAN RS485 Member=Component R29 100 Ohms
+Added Member To Class: ClassName=MCU - CAN RS485 Member=Component R31 60 Ohms
+Added Member To Class: ClassName=MCU - IMU Member=Component R33 10 kOhms
+Added Member To Class: ClassName=MCU - AUDIO Member=Component R35 10 kOhms
+Added Member To Class: ClassName=MCU - AUDIO Member=Component R37 1.5 kOhms
+Added Member To Class: ClassName=MCU - FLASH Member=Component R39 4.7 kOhms
+Added Member To Class: ClassName=MCU - FLASH Member=Component R41 4.7 kOhms
+Added Member To Class: ClassName=MCU - FLASH Member=Component R43 4.7 kOhms
+Added Member To Class: ClassName=MCU - FLASH Member=Component R45 49.9 kOhms
+Added Member To Class: ClassName=MCU - FLASH Member=Component R47 49.9 kOhms
+Added Member To Class: ClassName=MCU - FLASH Member=Component R49 49.9 kOhms
