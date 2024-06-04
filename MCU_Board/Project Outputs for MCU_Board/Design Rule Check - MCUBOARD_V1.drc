@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\SergenPiri\Desktop\Projects\Backups\MCU_Board\MCU_DEVBOARD\MCU_Board\MCUBOARD_V1.PcbDoc
 Date     : 4.06.2024
-Time     : 14:47:35
+Time     : 15:05:50
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -10,85 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C9-2(98.562mm,85.538mm) on GND-SIG1 And Pad C10-1(98.872mm,92.196mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C10-1(98.872mm,92.196mm) on GND-SIG1 And Pad U3-1(100.586mm,92.46mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C15-2(93.011mm,81.153mm) on GND-SIG1 And Pad C11-2(93.011mm,82.55mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C11-2(93.011mm,82.55mm) on GND-SIG1 And Pad R3-1(94.068mm,85.598mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-2(58.715mm,89.39mm) on GND-SIG1 And Pad C2-1(61.154mm,88.986mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C16-2(97.85mm,81.163mm) on GND-SIG1 And Pad C12-2(97.85mm,82.56mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C12-2(97.85mm,82.56mm) on GND-SIG1 And Pad C9-2(98.562mm,85.538mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C23-2(94.092mm,57.9mm) on GND-SIG1 And Pad C13-2(95.556mm,57.9mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C22-2(91.233mm,57.924mm) on GND-SIG1 And Pad C14-2(92.593mm,57.9mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C14-2(92.593mm,57.9mm) on GND-SIG1 And Pad C23-2(94.092mm,57.9mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C27-2(92.63mm,77.089mm) on GND-SIG2 And Pad C15-2(93.011mm,81.153mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C21-2(92.63mm,74.295mm) on GND-SIG2 And Pad C17-2(92.63mm,75.692mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C17-2(92.63mm,75.692mm) on GND-SIG2 And Pad C27-2(92.63mm,77.089mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C18-2(80.368mm,76.661mm) on GND-SIG2 And Pad C20-2(81.756mm,76.665mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C25-2(78.984mm,76.648mm) on GND-SIG2 And Pad C18-2(80.368mm,76.661mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-74(80.354mm,77.655mm) on GND-SIG1 And Pad C18-2(80.368mm,76.661mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C19-2(78.918mm,63.349mm) on GND-SIG2 And Pad C24-2(78.918mm,64.619mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C19-2(78.918mm,63.349mm) on GND-SIG2 And Pad C28-2(82.338mm,63.179mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C20-2(81.756mm,76.665mm) on GND-SIG2 And Pad C27-2(92.63mm,77.089mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-1(61.154mm,88.986mm) on GND-SIG1 And Pad R2-1(62.229mm,93.206mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-1(61.154mm,88.986mm) on GND-SIG1 And Pad U1-2(64.135mm,89.388mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C21-2(92.63mm,74.295mm) on GND-SIG2 And Pad C32-2(92.653mm,66.389mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C30-2(90.1mm,52.865mm) on GND-SIG1 And Pad C22-2(91.233mm,57.924mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-20(89.354mm,62.295mm) on GND-SIG1 And Pad C22-2(91.233mm,57.924mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad R6-1(73.849mm,67.694mm) on GND-SIG2 [Unplated] And Pad C24-2(78.918mm,64.619mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-99(78.174mm,64.475mm) on GND-SIG1 And Pad C24-2(78.918mm,64.619mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C26-2(89.418mm,63.179mm) on GND-SIG2 And Pad C33-2(92.65mm,63.637mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C35-2(88.148mm,63.179mm) on GND-SIG2 And Pad C26-2(89.418mm,63.179mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-20(89.354mm,62.295mm) on GND-SIG1 And Pad C26-2(89.418mm,63.179mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C28-2(82.338mm,63.179mm) on GND-SIG2 And Pad C36-2(84.879mm,63.19mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C29-2(86.243mm,63.179mm) on GND-SIG2 And Pad C35-2(88.148mm,63.179mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C36-2(84.879mm,63.19mm) on GND-SIG2 And Pad C29-2(86.243mm,63.179mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C31-2(81mm,52.833mm) on GND-SIG1 And Pad C30-2(90.1mm,52.865mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C42-1(77.517mm,49.672mm) on GND-SIG1 And Pad C31-2(81mm,52.833mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C32-2(92.653mm,66.389mm) on GND-SIG2 And Pad C34-2(92.661mm,64.997mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C33-2(92.65mm,63.637mm) on GND-SIG2 And Pad C34-2(92.661mm,64.997mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C34-2(92.661mm,64.997mm) on GND-SIG2 And Pad U4-27(93.534mm,64.475mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-10(84.354mm,62.295mm) on GND-SIG1 And Pad C36-2(84.879mm,63.19mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (71.882mm,45.048mm) from GND-SIG1 to GND-SIG2 And Pad C37-2(72.4mm,40.954mm) on GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C39-2(64.12mm,44.151mm) on GND-SIG1 And Pad C38-2(64.125mm,46.806mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C38-2(64.125mm,46.806mm) on GND-SIG1 And Via (70.104mm,46.699mm) from GND-SIG1 to GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C41-2(77.53mm,48.397mm) on GND-SIG1 And Pad C40-2(77.537mm,44.377mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C40-2(77.537mm,44.377mm) on GND-SIG1 And Pad R26-1(77.752mm,43.071mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (71.882mm,45.048mm) from GND-SIG1 to GND-SIG2 And Pad C40-2(77.537mm,44.377mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C42-1(77.517mm,49.672mm) on GND-SIG1 And Pad C41-2(77.53mm,48.397mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C4-2(83.058mm,92.308mm) on GND-SIG1 And Pad C7-1(86.487mm,92.202mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C43-2(71.482mm,52.195mm) on GND-SIG1 And Via (71.882mm,46.699mm) from GND-SIG1 to GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad R26-1(77.752mm,43.071mm) on GND-SIG1 [Unplated] And Pad C44-2(82.408mm,43.24mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad XTAL2-2(82.203mm,44.894mm) on GND-SIG1 [Unplated] And Pad C44-2(82.408mm,43.24mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C45-2(83.797mm,48.849mm) on GND-SIG1 And Pad XTAL2-4(84.003mm,47.194mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U7-5(86.341mm,31.115mm) on GND-SIG1 [Unplated] And Pad C47-2(92.446mm,32.445mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C49-2(102.429mm,72.507mm) on GND-SIG1 And Via (105.002mm,70.477mm) from GND-SIG1 to GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C50-1(100.738mm,28.641mm) on GND-SIG1 And Pad C51-2(101.991mm,28.642mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C51-2(101.991mm,28.642mm) on GND-SIG1 And Pad C52-2(103.251mm,28.622mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C5-2(85.1mm,86.554mm) on GND-SIG1 And Pad C6-2(86.497mm,86.554mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C52-2(103.251mm,28.622mm) on GND-SIG1 And Pad C53-1(104.521mm,28.622mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C53-1(104.521mm,28.622mm) on GND-SIG1 And Pad C55-2(105.791mm,28.622mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U9-5(104.509mm,32.467mm) on GND-SIG1 [Unplated] And Pad C53-1(104.521mm,28.622mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C56-2(107.248mm,38.11mm) on GND-SIG1 And Pad C54-2(107.509mm,39.687mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C55-2(105.791mm,28.622mm) on GND-SIG1 And Pad R36-1(110.059mm,25.952mm) on GND-SIG2 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C56-2(107.248mm,38.11mm) on GND-SIG1 And Pad C57-2(109.343mm,36.459mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U9-12(105.709mm,35.667mm) on GND-SIG1 [Unplated] And Pad C56-2(107.248mm,38.11mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Pad C58-2(64.135mm,80.518mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C58-2(64.135mm,80.518mm) on GND-SIG1 And Pad R50-1(67.182mm,79.895mm) on GND-SIG2 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C58-2(64.135mm,80.518mm) on GND-SIG1 And Pad U1-2(64.135mm,89.388mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C7-1(86.487mm,92.202mm) on GND-SIG1 And Pad C6-2(86.497mm,86.554mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C6-2(86.497mm,86.554mm) on GND-SIG1 And Pad R3-1(94.068mm,85.598mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C7-1(86.487mm,92.202mm) on GND-SIG1 And Pad U2-1(88.267mm,92.46mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C8-2(97.038mm,85.538mm) on GND-SIG1 And Pad C9-2(98.562mm,85.538mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad R3-1(94.068mm,85.598mm) on GND-SIG1 [Unplated] And Pad C8-2(97.038mm,85.538mm) on GND-SIG1 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C9-2(98.562mm,85.538mm) on GND-SIG1 And Pad R4-1(106.253mm,85.621mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-2(64.135mm,89.388mm) on GND-SIG1 [Unplated] And Pad D1-2(70.358mm,91.948mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-16(80.432mm,31.328mm) on Multi-Layer And Pad U7-5(86.341mm,31.115mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad R50-1(67.182mm,79.895mm) on GND-SIG2 [Unplated] And Pad U10-4(69.723mm,74.632mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (104.648mm,35.269mm) from GND-SIG1 to GND-SIG2 And Pad U9-12(105.709mm,35.667mm) on GND-SIG1 [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U9-24(101.809mm,33.167mm) on GND-SIG1 [Unplated] And Via (102.87mm,33.618mm) from GND-SIG1 to GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U9-5(104.509mm,32.467mm) on GND-SIG1 [Unplated] And Via (104.648mm,33.618mm) from GND-SIG1 to GND-SIG2 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad XTAL2-2(82.203mm,44.894mm) on GND-SIG1 [Unplated] And Pad XTAL2-4(84.003mm,47.194mm) on GND-SIG1 [Unplated] 
-Rule Violations :78
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -121,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 78
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
