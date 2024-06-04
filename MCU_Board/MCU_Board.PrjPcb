@@ -236,6 +236,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QALFFDDI
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MCU_Board\Design Rule Check - MCUBOARD_V1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
